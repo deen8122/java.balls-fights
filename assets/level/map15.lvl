@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="480" height="320">
+<entity x="10" y="11"    type="point" player="1"/>
+<entity x="10" y="345"   type="point" player="1"/>
+<entity x="655" y="10"    type="point" player="1"/>
+<entity x="655" y="345"   type="point" player="1"/>
+<entity x="320" y="10"    type="point" player="1"/>
+<entity x="320" y="345"   type="point" player="1"/>
+<entity x="120" y="10"    type="point" player="1"/>
+<entity x="120" y="345"   type="point" player="1"/>
+<entity x="420" y="10"    type="point" player="1"/>
+<entity x="420" y="345"   type="point" player="1"/>
+	
+	
+	
+	<entity x="300" y="170"  type="circle" player="0" />
+	<entity x="350" y="170"  type="circle" player="0"/>
+
+	
+	<entity x="30" y="170"  type="circle" player="1"/>
+	<entity x="80" y="170"  type="circle" player="1"/>
+    <entity x="130" y="170"  type="circle" player="1"/>
+	<entity x="180" y="170"  type="circle" player="1"/>
+	
+
+</level>

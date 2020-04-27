@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="480" height="320">
+
+	<entity x="5" y="0"    type="point" player="1"/>
+	<entity x="5" y="350"   type="point" player="1"/>
+	<entity x="660" y="0"    type="point" player="1"/>
+	<entity x="660" y="350"   type="point" player="1"/>
+	
+	<entity x="500" y="200"  type="circle" player="0" />
+	<entity x="200" y="200"  type="circle" player="1"/>
+</level>
